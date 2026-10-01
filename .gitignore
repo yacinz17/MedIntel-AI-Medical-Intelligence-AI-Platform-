@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.DS_Store
+models/*.joblib
+models/*.keras
+models/*.h5
+data/*
+!data/.gitkeep
